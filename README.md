@@ -1,4 +1,4 @@
-#ParallaxLandScape
+# ParallaxLandScape
 
 2D Parallax Landscape generator using perlin noise
 
